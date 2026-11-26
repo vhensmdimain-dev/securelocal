@@ -9,6 +9,7 @@ Phishing tricks people into sharing passwords or OTPs. Cristy should verify GCas
 
 ## Jonathan Saligan
 Topic: Malware and threat actors
+
 Malware can steal business information from the owner's phone. Threat actors may be outsiders or people misusing their access, so strong security and audit logs are important.
 
 ## Marc Panes
