@@ -14,6 +14,9 @@ Topic: Malware and threat actors
 Malware can steal business information from the owner's phone. Threat actors may be outsiders or people misusing their access, so strong security and audit logs are important.
 
 ## Marc Panes
+Topic: Symmetric vs asymmetric encryption and hashing
+
+Symmetric encryption protects stored payment reference numbers using one key. Asymmetric encryption uses public and private keys, while hashing protects passwords.
 
 ## Julius Adona
 Topic : Digital signatures and PKI
