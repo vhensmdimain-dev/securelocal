@@ -12,3 +12,6 @@ Phishing tricks people into sharing passwords or OTPs. Cristy should verify GCas
 ## Marc Panes
 
 ## Julius Adona
+Topic : Digital signatures and PKI
+Digital signatures help verify that records or files have not been changed. PKI uses digital certificates to establish trust in the system's HTTPS website.
+
