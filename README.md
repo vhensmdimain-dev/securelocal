@@ -1,5 +1,3 @@
-# securelocal
-
 # Cristy's Home Street Food
 
 A local web app for recording daily sales, tracking product and ingredient stock, and managing business accounts. It runs on PHP and MySQL/MariaDB and is intended to be served through Apache (for example, with XAMPP).
